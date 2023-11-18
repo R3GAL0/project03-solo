@@ -81,7 +81,7 @@ function MyNav() {
       <Navbar.Brand>
         <Link to="/" className="nav-link">
           <span role="img" aria-label="shopping bag">🛍️</span>
-          UFTShop
+          UTorr Shop
         </Link>
       </Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
