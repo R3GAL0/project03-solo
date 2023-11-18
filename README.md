@@ -1,13 +1,10 @@
 
 ## E-Commerce- Application ##
 
-Project 3 by: Riley Song, Priti, and Max Walent
-
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-<a href='https://riley1-3f2201f3866a.herokuapp.com/'>Deployment</a>
+<a href='https://e-store-e55ee7daa6ad.herokuapp.com/'>Deployment</a>
 
 ## About:
 This is an E-Commerce website built for selling books online.
@@ -17,18 +14,11 @@ Note: Currently the checkout is not working. Clicking on checkout from the cart 
 
 
 ## Technologies Used:
-- HTML
-- CSS
-- Javascript
-- React
-- MongoDB
-- Graphql
+- MERN
 - Bootstrap
 - Apollo
-- Express
 - Json Web Token
 - Stripe
-- Mongoose
 
 ## Login Credientals for Testing
 Basic User
@@ -47,6 +37,13 @@ Stripe Test Card
 - Number: 4242424242424242
 - CVC: any 3 digits
 - Date: Any future date
+
+
+## Source & Contributors
+
+This was cloned from a repo I made during the University of Toronto boot camp as part of a team. It was cloned so I can modify it by myself without affecting the original code.
+
+<a href='https://github.com/phvania/E-Commerce-'>Original Repo</a>
 
 
 ## Screenshots:
